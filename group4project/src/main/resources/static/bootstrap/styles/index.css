@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+}
+
+.body {
+    font-family:courier,arial,helvetica;
+    min-height: 100%;
+    width: 100%;
+
+}
+
+.container {
+    margin: 20px;
+    background-color: beige;
+}
+
+.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+    margin-top: 18px;
+    border-radius: 20%;
+    color: white;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+}
+
+
+
+.row {
+    width: 100%;
+}
+
+.column {
+  float: left;
+  padding: 5px;
+}
+
+.left {
+    width: 65%;
+    margin-left: 20px;
+}
+
+.right {
+    width: 30%;
+}
+
+.middle {
+    width: 5%;
+}

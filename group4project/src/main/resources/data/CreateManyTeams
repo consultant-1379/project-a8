@@ -1,0 +1,32 @@
+[
+    {
+        "id": "5f85c0d6635b672c7eb775c8",
+        "name": "UI-SDK2",
+        "description": "creates another user interface"
+    },
+    {
+        "id": "5f85ec5717e8092e35942f7c",
+        "name": "UI-SDK",
+        "description": "creates user interface"
+    },
+    {
+        "id": "5f85ec5717e8092e35942f7d",
+        "name": "Dynamo",
+        "description": "works like dynamite"
+    },
+    {
+        "id": "5f85ec5717e8092e35942f7e",
+        "name": "cool kids",
+        "description": "researches latest technologies"
+    },
+    {
+        "id": "5f875252c85b3c6a5fa41bd2",
+        "name": "Team 4",
+        "description": "Develops a repository tool"
+    },
+    {
+        "id": "5f8752df3aa6c42a876b6f4e",
+        "name": "Team 5",
+        "description": "Develops a data analytics tool"
+    }
+]
